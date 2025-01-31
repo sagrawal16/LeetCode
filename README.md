@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sagrawal16/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sagrawal16/LeetCode/tree/master/0137-single-number-ii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sagrawal16/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
