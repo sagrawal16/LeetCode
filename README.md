@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sagrawal16/LeetCode/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/sagrawal16/LeetCode/tree/master/0605-can-place-flowers) |
 | [0854-making-a-large-island](https://github.com/sagrawal16/LeetCode/tree/master/0854-making-a-large-island) |
+| [1364-tuple-with-same-product](https://github.com/sagrawal16/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagrawal16/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sagrawal16/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sagrawal16/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sagrawal16/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sagrawal16/LeetCode/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/sagrawal16/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sagrawal16/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sagrawal16/LeetCode/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/sagrawal16/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sagrawal16/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
