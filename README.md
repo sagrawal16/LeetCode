@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sagrawal16/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sagrawal16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sagrawal16/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/sagrawal16/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sagrawal16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sagrawal16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagrawal16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sagrawal16/LeetCode/tree/master/0036-valid-sudoku) |
 | [0854-making-a-large-island](https://github.com/sagrawal16/LeetCode/tree/master/0854-making-a-large-island) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sagrawal16/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/sagrawal16/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/sagrawal16/LeetCode/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/sagrawal16/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sagrawal16/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
