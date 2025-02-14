@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sagrawal16/LeetCode/tree/master/0605-can-place-flowers) |
 | [0854-making-a-large-island](https://github.com/sagrawal16/LeetCode/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/sagrawal16/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sagrawal16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagrawal16/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sagrawal16/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/sagrawal16/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sagrawal16/LeetCode/tree/master/0009-palindrome-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sagrawal16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/sagrawal16/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sagrawal16/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sagrawal16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sagrawal16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/sagrawal16/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sagrawal16/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sagrawal16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
