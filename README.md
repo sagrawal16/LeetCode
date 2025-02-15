@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sagrawal16/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sagrawal16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sagrawal16/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sagrawal16/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sagrawal16/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sagrawal16/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sagrawal16/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sagrawal16/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0392-is-subsequence) |
