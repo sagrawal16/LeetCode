@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sagrawal16/LeetCode/tree/master/0009-palindrome-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sagrawal16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/sagrawal16/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/sagrawal16/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
 | ------- |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/sagrawal16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/sagrawal16/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
