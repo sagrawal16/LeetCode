@@ -19,7 +19,8 @@ class Solution {
     public boolean canRepair(int[] ranks,long mid,int cars){
         int count = 0;
         for(int i =0;i<ranks.length;i++){
-            count += Math.floor(Math.sqrt(mid/ranks[i]));
+            count += Math.sqrt(mid/ranks[i]);
+            if(count >= cars) return true;
         }
         return count >= cars;
     }
