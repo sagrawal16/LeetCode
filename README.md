@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sagrawal16/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sagrawal16/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/sagrawal16/LeetCode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sagrawal16/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sagrawal16/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sagrawal16/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sagrawal16/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagrawal16/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/sagrawal16/LeetCode/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/sagrawal16/LeetCode/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sagrawal16/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sagrawal16/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Depth-First Search
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sagrawal16/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/sagrawal16/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sagrawal16/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0768-partition-labels](https://github.com/sagrawal16/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sagrawal16/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/sagrawal16/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sagrawal16/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sagrawal16/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/sagrawal16/LeetCode/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sagrawal16/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sagrawal16/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/sagrawal16/LeetCode/tree/master/1160-letter-tile-possibilities) |
