@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sagrawal16/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sagrawal16/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/sagrawal16/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/sagrawal16/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/sagrawal16/LeetCode/tree/master/0605-can-place-flowers) |
 | [0854-making-a-large-island](https://github.com/sagrawal16/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sagrawal16/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/sagrawal16/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/sagrawal16/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sagrawal16/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sagrawal16/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
