@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/sagrawal16/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sagrawal16/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/sagrawal16/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sagrawal16/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sagrawal16/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/sagrawal16/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagrawal16/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/sagrawal16/LeetCode/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/sagrawal16/LeetCode/tree/master/0768-partition-labels) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/sagrawal16/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagrawal16/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sagrawal16/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/sagrawal16/LeetCode/tree/master/2681-put-marbles-in-bags) |
