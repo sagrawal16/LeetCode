@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sagrawal16/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sagrawal16/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sagrawal16/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/sagrawal16/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/sagrawal16/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sagrawal16/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/sagrawal16/LeetCode/tree/master/0605-can-place-flowers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sagrawal16/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sagrawal16/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sagrawal16/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sagrawal16/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/sagrawal16/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/sagrawal16/LeetCode/tree/master/0868-push-dominoes) |
