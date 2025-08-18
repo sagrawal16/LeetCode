@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/sagrawal16/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sagrawal16/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sagrawal16/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sagrawal16/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/sagrawal16/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sagrawal16/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sagrawal16/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sagrawal16/LeetCode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/sagrawal16/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/sagrawal16/LeetCode/tree/master/0868-push-dominoes) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sagrawal16/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sagrawal16/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sagrawal16/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagrawal16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sagrawal16/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/sagrawal16/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sagrawal16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sagrawal16/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/sagrawal16/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sagrawal16/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sagrawal16/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sagrawal16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sagrawal16/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/sagrawal16/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sagrawal16/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sagrawal16/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagrawal16/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sagrawal16/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
