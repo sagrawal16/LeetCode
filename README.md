@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sagrawal16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sagrawal16/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sagrawal16/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sagrawal16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagrawal16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagrawal16/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sagrawal16/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sagrawal16/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sagrawal16/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sagrawal16/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/sagrawal16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sagrawal16/LeetCode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/sagrawal16/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sagrawal16/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -510,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sagrawal16/LeetCode/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/sagrawal16/LeetCode/tree/master/2050-count-good-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sagrawal16/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
